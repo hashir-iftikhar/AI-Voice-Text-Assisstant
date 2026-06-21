@@ -39,8 +39,8 @@ A lightweight, dual-mode AI assistant built in Python. Chat with Google's **Gemi
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<hashir-iftikhar>/<AI Voice & Text Assisstant>.git
-cd <AI Voice & Text Assisstant>
+git clone https://github.com/<hashir-iftikhar>/<AI-Voice-Text-Assisstant>.git
+cd <AI-Voice-Text-Assisstant>
 ```
 
 ### 2. Install dependencies
