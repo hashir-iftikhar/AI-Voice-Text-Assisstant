@@ -1,0 +1,4 @@
+pyttsx3
+SpeechRecognition
+google-generativeai
+python-dotenv
